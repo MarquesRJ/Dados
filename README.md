@@ -6,8 +6,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * Fiz esse rápido programinha para rolar alguns dados e compor uma ficha de
- * personagem de um RPG do qual eu vou participar.
+ * Fiz esse rápido programinha para rolar alguns dados e compor uma ficha de personagem de um RPG do qual eu vou participar.
  * 
  * E-mail: gabrielmarques142@gmail.com
  * @author Gabriel Marques
